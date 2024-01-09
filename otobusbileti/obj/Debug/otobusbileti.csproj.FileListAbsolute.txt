@@ -1,0 +1,14 @@
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\bin\Debug\otobusbileti.exe.config
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\bin\Debug\otobusbileti.exe
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\bin\Debug\otobusbileti.pdb
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.AssemblyReference.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Form1.resources
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Properties.Resources.resources
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.GenerateResource.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.csproj.CoreCompileInputs.cache
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.exe
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.pdb
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Form2.resources
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Form3.resources
+C:\Users\ocaks\Desktop\okul araç gereçler\c# ders notları\otobusbileti\otobusbileti\obj\Debug\otobusbileti.Form4.resources
